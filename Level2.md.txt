@@ -1,0 +1,6 @@
+LEVEL 2
+
+./ : look in current directory
+\ : it looks the whole thing as one filename
+cat is used to read the file
+password:MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx

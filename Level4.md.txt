@@ -1,0 +1,7 @@
+Level 4
+command used
+ls -la: List detialed of that files
+cat ./* to read the all the file
+cat -- : end of option
+
+PASSWORD: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw

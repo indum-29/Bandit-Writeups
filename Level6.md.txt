@@ -1,0 +1,14 @@
+LEVEL 6 
+WRITEUPS:
+
+
+Search recursively from /.
+
+Commands
+find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+2>/dev/null : will remove the error
+
+cat /path/to/file
+
+Password
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj

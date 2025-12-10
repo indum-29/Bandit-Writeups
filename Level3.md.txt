@@ -1,0 +1,9 @@
+LEVEL 3 
+Read a hidden file.
+
+Commands
+ls -a
+cat .hidden
+
+Password
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

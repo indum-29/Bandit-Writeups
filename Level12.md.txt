@@ -1,0 +1,19 @@
+LEVEL 12:
+COMMANDS USED ARE:
+
+
+cd /tmp	Safe working directory
+mkdir mywork1	Create workspace
+cd mywork1	Enter workspace
+cp ~/data.txt .	Copy file locally
+mv data.txt dump.hex	Rename
+xxd -r dump.hex dump	Reverse hexdump
+file dump	Identify file type
+mv dump dump.gz / gzip -d dump.gz	Decompress gzip
+mv dump dump.bz2 / bzip2 -d dump.bz2	Decompress bzip2
+tar -xvf dump	Extract tar
+ls -l	Check new files
+repeat until final data.txt
+
+Password
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

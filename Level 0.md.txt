@@ -1,0 +1,9 @@
+Writeups level0
+Level 0 → 1
+Objective
+
+login through ssh
+ls = it list all the files
+cat = it will read the file
+
+password : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If

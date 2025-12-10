@@ -1,0 +1,11 @@
+LEVEL9:
+COMMANDS USED ARE:
+
+
+Extract human-readable strings.
+
+Commands
+strings data.txt | grep =
+
+Password
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

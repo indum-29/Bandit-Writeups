@@ -1,0 +1,9 @@
+LEVEL7
+COMMANDS USED ARE:
+Find a line containing the word “millionth”.
+
+Commands
+grep millionth data.txt
+
+Password
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

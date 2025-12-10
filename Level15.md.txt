@@ -1,0 +1,9 @@
+LEVEL 15
+COMMAND USED ARE:
+login through ssh portal of bandit15
+
+openssl s_client → This is the standard way to connect to an SSL/TLS service:
+openssl s_client -connect localhost:30001
+PASSWORD:
+
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx

@@ -1,0 +1,10 @@
+LEVEL8:
+COMMANDS USED ARE:
+
+Find the unique line in a sorted file.
+
+Commands
+sort data.txt | uniq -u
+
+Password
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM

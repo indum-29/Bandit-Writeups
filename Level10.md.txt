@@ -1,0 +1,9 @@
+LEVEL10:
+COMMANDS USED ARE:
+Decode a Base64 encoded file.
+
+Commands
+cat data.txt | base64 -d
+
+Password
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

@@ -1,0 +1,11 @@
+LEVEL 13
+COMMANDS USED
+Use a private SSH key to log in.
+
+Commands
+ls
+chmod 600 sshkey.private
+ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
+-i : Tells to use private key
+Password
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
