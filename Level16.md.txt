@@ -1,0 +1,47 @@
+Level16
+Commands used are:
+1. Scan Ports
+Use nmap to find open ports:
+
+```bash
+nmap -p31000-32000 localhost
+2. Check SSL Support
+Test each open port:
+
+bash
+Copy code
+openssl s_client -connect localhost:<port>
+The valid port will show a successful SSL handshake.
+
+3. Connect to the SSL Port
+Use ncat:
+
+bash
+Copy code
+ncat --ssl localhost <port>
+Paste the bandit16 password.
+
+The correct server responds with:
+
+vbnet
+Copy code
+Correct!
+-----BEGIN RSA PRIVATE KEY-----
+...redacted...
+-----END RSA PRIVATE KEY-----
+4. Save the Key
+bash
+Copy code
+cd /tmp
+nano pvt.key
+Paste the key, save, and restrict permissions:
+
+bash
+Copy code
+chmod 600 pvt.key
+5. SSH into the Next Level
+bash
+Copy code
+ssh -i pvt.key bandit17@bandit.labs.overthewire.org -p 2220
+You are now in Bandit Level 17.
+
