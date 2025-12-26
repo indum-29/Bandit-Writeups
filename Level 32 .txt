@@ -1,0 +1,9 @@
+LEVEL 32:
+COMMANDS USED:
+Login into ssh bandit 32 
+$0 : escape the restricted shell
+whoami: Verify the shell
+cat /etc/bandit_pass/bandit33: U will get the password
+
+PASSWORD:
+tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
