@@ -1,0 +1,6 @@
+level 25 :
+Commands used :
+scp -P 2220 bandit25@bandit.labs.overthewire.org:~/bandit26.sshkey ./
+chmod 600 bandit26.sshkey
+ssh -i bandit26.sshkey -p 2220 bandit26@bandit.labs.overthewire.org
+Identify the login shell used by bandit26.
