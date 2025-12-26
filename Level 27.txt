@@ -1,0 +1,9 @@
+LEVEL 27:
+COMMANDS USED ARE:
+mkdir: make a directory
+ls : list all the files
+cd repo : change directory to git
+git clone ssh://bandit27-git@bandit.labs.overthewire.org:2220/home/bandit27-git/repo
+cat README: REad the file content
+PASSWORD:
+Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN
