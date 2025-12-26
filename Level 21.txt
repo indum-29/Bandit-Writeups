@@ -1,1 +1,12 @@
+LEVEL 21:
+COMMANDS USED ARE:
+ls -l : is used to read the file detailed
+cat /usr/bin/cronjob_bandit22.sh
+
+The script copies /etc/bandit_pass/bandit22 to a file in /tmp and sets readable permissions.
+PASSWORD :
+
+tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
+
+
 
