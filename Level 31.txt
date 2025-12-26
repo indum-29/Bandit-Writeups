@@ -1,0 +1,15 @@
+LEVEL 31:
+
+git clone ssh://bandit31-git@bandit.labs.overthewire.org:2220/home/bandit31-git/repo
+cd repo → Enter the repository.
+cat README.md → Read task instructions.
+echo "May I come in?" > key.txt→ Create the required file with exact content.
+cgit add -f key.txt → Force-add ignored file.
+git config user.name "bandit31" → Set commit author name (required to commit).
+git config user.email "bandit31@bandit" → Set commit author email.
+
+git commit -m "add key.txt → Commit the file.
+git push origin master → Push commit to remote repository.
+
+PASSWORD:
+3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K 
