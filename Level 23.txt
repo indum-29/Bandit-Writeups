@@ -1,0 +1,9 @@
+LEVEL 23:
+Commands Used are:
+cat /usr/bin/cronjob_bandit24.sh:analyze the Cron Script
+nano /tmp/getpass.sh: create a malicious script
+chmod +x /tmp/getpass.sh: Make the Script ExecutablePlace Script in cp /tmp/getpass.sh /var/spool/bandit24/foo/:Place Script in Cron Directory
+Atlast use cat will get password
+
+ PASSWORD:
+gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
