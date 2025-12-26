@@ -1,0 +1,14 @@
+LEVEL 29
+COMMANDS USED:
+mkdir: make a directory
+ls : list all the files
+cd repo : change directory to git
+git clone ssh://bandit27 git@bandit.labs.overthewire.org:2220/home/bandit29-git/repo
+git branch -a:List all branches (local + remote).
+git checkout dev
+→ Switch to the development branch.
+cat README.md
+username: bandit30
+PASSWORD:
+qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL
+
